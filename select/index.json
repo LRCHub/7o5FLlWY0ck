@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Stay Up",
+  "base_artist": "Pillar",
+  "createdAt": "2026-02-17T16:48:40.886929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Betta Stay Up In Your House",
+      "artist": "Busta Rhymes feat. Rah Digga",
+      "has_synced": true,
+      "path": "select/01_Betta_Stay_Up_In_Your_House_Busta_Rhymes_feat._Rah_Digga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Betta Stay Up In Your House",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/02_Betta_Stay_Up_In_Your_House_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stay Up Late",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/03_Stay_Up_Late_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "( We Stay ) Up All Night",
+      "artist": "Buraka Som Sistema feat. Blaya & Roses Gabor",
+      "has_synced": true,
+      "path": "select/04_(_We_Stay_)_Up_All_Night_Buraka_Som_Sistema_feat._Blaya_&_Roses_Gabor.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Betta Stay Up In Your House (feat. Rah Digga)",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/05_Betta_Stay_Up_In_Your_House_(feat._Rah_Digga)_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stay Up! (Viagra) [feat. Kanye West]",
+      "artist": "88-Keys",
+      "has_synced": true,
+      "path": "select/06_Stay_Up!_(Viagra)_[feat._Kanye_West]_88-Keys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stay Up! (Viagra) (feat. Kanye West)",
+      "artist": "88-Keys",
+      "has_synced": true,
+      "path": "select/07_Stay_Up!_(Viagra)_(feat._Kanye_West)_88-Keys.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Betta Stay Up In Your House (feat. Rah Digga)",
+      "artist": "Busta Rhymes, Rah Digga",
+      "has_synced": true,
+      "path": "select/08_Betta_Stay_Up_In_Your_House_(feat._Rah_Digga)_Busta_Rhymes,_Rah_Digga.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stay Up Late",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/09_Stay_Up_Late_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pray up Stay Up",
+      "artist": "SAULT",
+      "has_synced": true,
+      "path": "select/10_Pray_up_Stay_Up_SAULT.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stay Up",
+      "artist": "Pillar",
+      "has_synced": true,
+      "path": "select/11_Stay_Up_Pillar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stay Up With Me",
+      "artist": "Netsky feat. Arlissa",
+      "has_synced": true,
+      "path": "select/12_Stay_Up_With_Me_Netsky_feat._Arlissa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stay Up With Me",
+      "artist": "Netsky",
+      "has_synced": true,
+      "path": "select/13_Stay_Up_With_Me_Netsky.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stay Up With Me (Feat. Arlissa)",
+      "artist": "Netsky",
+      "has_synced": true,
+      "path": "select/14_Stay_Up_With_Me_(Feat._Arlissa)_Netsky.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stay Up Late",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/15_Stay_Up_Late_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stay Up",
+      "artist": "YNW Melly",
+      "has_synced": true,
+      "path": "select/16_Stay_Up_YNW_Melly.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Stay Up",
+      "artist": "Sophie Francis",
+      "has_synced": true,
+      "path": "select/17_Stay_Up_Sophie_Francis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stay Up",
+      "artist": "Pillar",
+      "has_synced": false,
+      "path": "select/pl_01_Stay_Up_Pillar.txt"
+    }
+  ]
+}
